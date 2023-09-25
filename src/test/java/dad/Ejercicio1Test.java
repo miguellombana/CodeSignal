@@ -4,15 +4,15 @@ import org.junit.Before;
 import org.junit.Test;
 import static  org.junit.Assert.assertEquals;
 
-public class MainTest {
+public class Ejercicio1Test {
 
-private Main add;
+private Ejercicio1 add;
 
 @Before
 
     public void setup(){
 
-        add = new Main();
+        add = new Ejercicio1();
 
     }
     @Test
